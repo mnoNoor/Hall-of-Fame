@@ -2,7 +2,8 @@
 ````markdown
 # Hall of Fame
 
-A sleek **React + Vite** web app to celebrate your favorite fictional and real-life personalities. Easily add, search, and explore a curated "Hall of Fame" with beautiful cards and a modern, responsive design.
+A sleek **React + Vite** web app to celebrate your favorite fictional and real-life personalities. 
+Easily add, search, and explore a curated "Hall of Fame" with beautiful cards and a modern, responsive design.
 
 ---
 
