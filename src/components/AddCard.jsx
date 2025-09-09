@@ -38,6 +38,7 @@ export default function AddCard({ setCards, setShow }) {
           <Input
             type="url"
             value={img}
+            placeholder="URL"
             onChange={(e) => setImg(e.target.value)}
           />
         </div>
@@ -48,7 +49,6 @@ export default function AddCard({ setCards, setShow }) {
             type="text"
             placeholder="Character name"
             value={name}
-            placeholder="URL"
             onChange={(e) => setName(e.target.value)}
           />
         </div>
