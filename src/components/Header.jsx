@@ -31,8 +31,6 @@ export default function Header() {
           </NavigationMenuItem>
         </NavigationMenuList>
       </NavigationMenu>
-
-      <Button className="hover:cursor-pointer">Sign in</Button>
     </header>
   )
 }
