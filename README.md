@@ -17,7 +17,7 @@ Easily add, search, and explore a curated "Hall of Fame" with beautiful cards an
 - 📱 Responsive and accessible design
 
 
----
+````
 
 ## 🛠️ Getting Started
 
@@ -25,7 +25,7 @@ Easily add, search, and explore a curated "Hall of Fame" with beautiful cards an
 ```bash
 git clone https://github.com/mnoNoor/Hall-of-Fame.git
 cd hall-of-fame
-````
+```
 
 ### 2. Install dependencies
 
